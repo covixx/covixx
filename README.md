@@ -1,11 +1,11 @@
-## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Welcome+my+friend.)](https://git.io/typing-svg)
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
+![covixx](https://github-readme-stats.vercel.app/api?username=covixx&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=face-hh&show_icons=true&theme=tokyonight&layout=compact)
+![covixx](https://github-readme-stats.vercel.app/api/top-langs?username=covixx&show_icons=true&theme=tokyonight&layout=compact)
 
 --- END RANDOM STATS NO ONE READS ---
 <!--
