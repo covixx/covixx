@@ -1,6 +1,5 @@
 ## Hi there 👋
-(https://github-readme-stats.vercel.app/api?username=covixx)](https://github.com/covixx/github-readme-stats)
-
+![face-hh](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
 <!--
 **covixx/covixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
