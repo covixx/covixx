@@ -5,7 +5,7 @@
 
 ![covixx](https://github-readme-stats.vercel.app/api?username=covixx&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![covixx](https://github-readme-stats.vercel.app/api/top-langs?username=covixx&show_icons=true&theme=tokyonight&layout=compact)
+![covixx](https://github-readme-stats.vercel.app/api/top-langs?username=covixx&show_icons=true&theme=tokyonight)
 
 --- END RANDOM STATS NO ONE READS ---
 <!--
