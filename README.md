@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Welcome+my+friend.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+grass.)](https://git.io/typing-svg)
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 
