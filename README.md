@@ -3,7 +3,9 @@
 
 --- BEGIN CONCEITED STATS I ADDED TO BOOST MY EGO ---
 
+![covixx](https://github-readme-stats.vercel.app/api?username=covixx&show_icons=true&theme=tokyonight&hide=["issues"])
 
+![covixx](https://github-readme-stats.vercel.app/api/top-langs?username=covixx&show_icons=true&theme=tokyonight)
 
 --- BEGIN CONCEITED STATS I ADDED TO BOOST MY EGO ---
 <!--
